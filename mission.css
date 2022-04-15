@@ -1,6 +1,6 @@
 .first h1{
     border-left: 3px solid rgb(228, 113, 47);
-    border-image-slice: 1%;
+    border-image-slice: 1;
     /* border-radius: 5px 5px 5px 5px; */
     border-top: 20px;
     margin-left: 50px;
@@ -271,16 +271,16 @@ h2{
     width: 60px;
     height: 60px;
 background-color: rgb(255, 162, 0);
-margin-left: 35%;
+margin-left: 400px;
 border-radius: 20px;
 }
 .box7{
     width: 60px;
     height: 60px;
 background-color: rgb(255, 162, 0);
-margin-left: 20%;
+margin-left: 220px;
 border-radius: 20px;
-margin-top: 15px;
+margin-top: 18px;
 }
 .box9{
     width: 110%;
